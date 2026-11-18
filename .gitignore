@@ -1,0 +1,12 @@
+/bin/
+/build/
+/dist/
+/build-dist*.log
+/build-tools/
+/models/*
+!/models/.gitkeep
+/runtime/*
+!/runtime/.gitkeep
+/internal/bundle/payload/*
+!/internal/bundle/payload/.gitkeep
+/work/
